@@ -1,5 +1,7 @@
 # A3-seattle-pet-breeds
 
+Team members:  ....
+
 
 Project page: https://cse442-22w.github.io/A3-seattle-pet-breeds/
 
