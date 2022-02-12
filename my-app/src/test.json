@@ -1,0 +1,29 @@
+[
+    {
+        "License Issue Date": "January 08 2022",
+        "License Number": "S111514",
+        "Animal's Name": "River",
+        "Species": "Dog",
+        "Primary Breed": "Retriever, Golden",
+        "Secondary Breed": "",
+        "ZIP Code": 98115
+    },
+    {
+        "License Issue Date": "January 08 2022",
+        "License Number": "S140145",
+        "Animal's Name": "Ernie",
+        "Species": "Dog",
+        "Primary Breed": "Poodle, Miniature",
+        "Secondary Breed": "Spaniel, American Cocker",
+        "ZIP Code": 98115
+    },
+    {
+        "License Issue Date": "January 08 2022",
+        "License Number": 27382,
+        "Animal's Name": "Merle",
+        "Species": "Dog",
+        "Primary Breed": "Boxer",
+        "Secondary Breed": "Pug",
+        "ZIP Code": 98144
+    }
+]
